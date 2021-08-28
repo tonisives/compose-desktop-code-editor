@@ -16,6 +16,9 @@ Column {
 
 ```
 
+## Dependencies
+Java 16
+
 ## Run
 
 `./gradlew run`
